@@ -1,0 +1,9 @@
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Función trigonométrica1\Función trigonométrica1\bin\Debug\Función trigonométrica1.exe.config
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Función trigonométrica1\Función trigonométrica1\bin\Debug\Función trigonométrica1.exe
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Función trigonométrica1\Función trigonométrica1\bin\Debug\Función trigonométrica1.pdb
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Función trigonométrica1\Función trigonométrica1\obj\Debug\Función trigonométrica1.csprojResolveAssemblyReference.cache
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Función trigonométrica1\Función trigonométrica1\obj\Debug\Función_trigonométrica.Form1.resources
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Función trigonométrica1\Función trigonométrica1\obj\Debug\Función_trigonométrica.Properties.Resources.resources
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Función trigonométrica1\Función trigonométrica1\obj\Debug\Función trigonométrica1.csproj.GenerateResource.Cache
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Función trigonométrica1\Función trigonométrica1\obj\Debug\Función trigonométrica1.exe
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Función trigonométrica1\Función trigonométrica1\obj\Debug\Función trigonométrica1.pdb
